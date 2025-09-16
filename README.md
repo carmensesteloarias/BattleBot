@@ -15,5 +15,5 @@
 - **Diseño** → Noe  
 
 ## Repositorio  
-Este repositorio servirá para ir subiendo los avances del proyecto de forma regular (no todo el mismo día).  
+Este repositorio servirá para ir subiendo los avances del proyecto de forma regular.  
 Enlace al repositorio: [BattleBot](https://github.com/carmensesteloarias/BattleBot)
